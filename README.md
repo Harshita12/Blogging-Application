@@ -33,3 +33,11 @@ Hello,
 8. For getting the list of all posts here I use Axios async library.
 
 9. For viewing single post detail here I am using vuex state, getters, mutations and action functionalities.
+
+Instruction for running the application:
+
+1. Clone the application from github repository (git clone https://github.com/Harshita12/Blogging-Application.git).
+
+2. Go to the folder Blogging-Application inside the command prompt  and run "npm install" command.
+
+3. For running the application hit "npm run serve".
