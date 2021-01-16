@@ -1,4 +1,3 @@
-# blogging-app
 Hello, 
   This is Harshita Bilgaiyan sharing my knowledge about "Front End Developer Assessment - Blogging Platform". In this application, I am trying to display the list of all posts by searching with the title of posts and pagination functionality. And for viewing single post detail here I use vuex State Management System. To complete and achieve the project I follow the below step:
 
